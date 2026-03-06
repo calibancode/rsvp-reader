@@ -1,6 +1,6 @@
 # RSVP Reader
 
-A minimal [Rapid Serial Visual Presentation](https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation) reading app. Paste text, set your WPM, and words flash one at a time with [Optimal Recognition Point](https://en.wikipedia.org/wiki/Optimal_recognition_point) alignment to guide your eye.
+A minimal [Rapid Serial Visual Presentation](https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation) reading app. Paste text, set your WPM, and words flash one at a time with [Optimal Recognition Point](https://raley.english.ucsb.edu/wp-content/uploads/Student-work/Spritz.pdf) alignment to guide your eye.
 
 ## Features
 
