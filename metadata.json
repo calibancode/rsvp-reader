@@ -1,0 +1,5 @@
+{
+  "name": "Dead Simple RSVP Reader",
+  "description": "A visually minimal Rapid Serial Visual Presentation (RSVP) reading app with Optimal Recognition Point (ORP) alignment.",
+  "requestFramePermissions": []
+}
